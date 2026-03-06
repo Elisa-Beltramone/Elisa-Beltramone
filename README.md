@@ -26,3 +26,9 @@ Personal website built with HTML, CSS, and JavaScript.
 ---
 
 ⭐ Check out my repositories to see my projects and progress!
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elisa-Beltramone&show_icons=true)
