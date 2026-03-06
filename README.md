@@ -31,4 +31,4 @@ Personal website built with HTML, CSS, and JavaScript.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elisa-Beltramone&show_icons=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Elisa-Beltramone&color=blue)
