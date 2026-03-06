@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Elisa
 
 <!--
 **Elisa-Beltramone/Elisa-Beltramone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+💻 I work with HTML, CSS, and JavaScript to build web projects.  
+🚀 Currently learning and building projects to grow my tech skills.
+
+## 📂 Projects
+
+🔹 **Portfolio Website**  
+Personal website built with HTML, CSS, and JavaScript.
+
+---
+
+⭐ Check out my repositories to see my projects and progress!
