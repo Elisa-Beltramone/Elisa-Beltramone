@@ -27,8 +27,3 @@ Personal website built with HTML, CSS, and JavaScript.
 
 ⭐ Check out my repositories to see my projects and progress!
 
----
-
-## 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=Elisa-Beltramone&color=blue)
