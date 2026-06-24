@@ -1,5 +1,3 @@
-## Hi there 👋 I'm Elisa
-
 <!--
 **Elisa-Beltramone/Elisa-Beltramone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hi there 👋 I'm Elisa
+
 💻 I build responsive web applications using HTML, CSS, and JavaScript, with a focus on clean structure and user experience.
 
 🚀 Currently developing full-stack projects and strengthening my backend skills (Node.js, Express, PostgreSQL, API design) while also exploring data science and data-driven problem solving with Python and SQL.
@@ -27,11 +27,30 @@ Here are some ideas to get you started:
 A language learning platform with AI-powered reading, writing correction, and vocabulary practice.  
 Built with Node.js, Express, PostgreSQL, and vanilla JavaScript.  
 
-🔗 https://github.com/Elisa-Beltramone/Deutsch-Lernen
+🔗 https://github.com/Elisa-Beltramone/Deutsch-Lernen  
+
+---
+
+🔹 **Hospital Data Analysis (Streamlit Dashboard)**  
+Interactive data analysis project focused on healthcare datasets, featuring data cleaning, exploratory analysis, and visual insights using Python and Streamlit.  
+
+🔗 https://github.com/Elisa-Beltramone/hospital-analysis  
+🔗 https://hospital-infraestructura.streamlit.app/
+
+---
+
+🔹 **CO₂ Emissions Analysis (Data Science Project)**  
+Data visualization and analysis project exploring CO₂ emissions trends using Python, focusing on environmental data insights and exploratory data analysis.  
+
+🔗 https://elisa-beltramone.github.io/CO2-Emissions/model.html  
+
+---
 
 🔹 **Portfolio Website**  
 Personal website showcasing my projects and development journey.
 
+🔗 https://elisa-beltramone.github.io/my_web_profile/
+
 ---
 
-⭐ Explore my repositories to see my progress and continuous learning.
+⭐ Explore my repositories to see my progress and continuous learning in both software development and data science.
