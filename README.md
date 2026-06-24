@@ -15,15 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 I work with HTML, CSS, and JavaScript to build web projects.  
-🚀 Currently learning and building projects to grow my tech skills.
+💻 I build responsive web applications using HTML, CSS, and JavaScript, with a focus on clean structure and user experience.
 
-## 📂 Projects
-
-🔹 **Portfolio Website**  
-Personal website built with HTML, CSS, and JavaScript.
+🚀 Currently developing full-stack projects and strengthening my skills in backend development (Node.js, Express, PostgreSQL) and API design.
 
 ---
 
-⭐ Check out my repositories to see my projects and progress!
+## 📂 Projects
+
+🔹 **Deutsch Lernen (Full-Stack Web App)**  
+A language learning platform with AI-powered reading, writing correction, and vocabulary practice.  
+Built with Node.js, Express, PostgreSQL, and vanilla JavaScript.
+
+https://github.com/Elisa-Beltramone/Deutsch-Lernen
+
+🔹 **Portfolio Website**  
+Personal website showcasing my projects and development journey.
+
+---
+
+⭐ Explore my repositories to see my progress and continuous learning.
 
