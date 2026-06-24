@@ -34,22 +34,7 @@ Built with Node.js, Express, PostgreSQL, and vanilla JavaScript.
 🔹 **Hospital Data Analysis (Streamlit Dashboard)**  
 Interactive data analysis project focused on healthcare datasets, featuring data cleaning, exploratory analysis, and visual insights using Python and Streamlit.  
 
-🔗 https://github.com/Elisa-Beltramone/hospital-analysis  
 🔗 https://hospital-infraestructura.streamlit.app/
-
----
-
-🔹 **CO₂ Emissions Analysis (Data Science Project)**  
-Data visualization and analysis project exploring CO₂ emissions trends using Python, focusing on environmental data insights and exploratory data analysis.  
-
-🔗 https://elisa-beltramone.github.io/CO2-Emissions/model.html  
-
----
-
-🔹 **Portfolio Website**  
-Personal website showcasing my projects and development journey.
-
-🔗 https://elisa-beltramone.github.io/my_web_profile/
 
 ---
 
