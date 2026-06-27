@@ -29,6 +29,10 @@ Built with Node.js, Express, PostgreSQL, and vanilla JavaScript.
 
 🔗 https://github.com/Elisa-Beltramone/Deutsch-Lernen  
 
+## 🌐 Live Demo
+
+[Try Deutsch Lernen](https://deutsch-lernen-rk3a.onrender.com/index.html)
+
 ---
 
 🔹 **Hospital Data Analysis (Streamlit Dashboard)**  
