@@ -31,14 +31,18 @@ Built with Node.js, Express, PostgreSQL, and vanilla JavaScript.
 [Try Deutsch Lernen](https://deutsch-lernen-rk3a.onrender.com/index.html)
 
 ## Code
-🔗 https://github.com/Elisa-Beltramone/Deutsch-Lernen  
+https://github.com/Elisa-Beltramone/Deutsch-Lernen  
 
 ---
 
 🔹 **Hospital Data Analysis (Streamlit Dashboard)**  
 Interactive data analysis project focused on healthcare datasets, featuring data cleaning, exploratory analysis, and visual insights using Python and Streamlit.  
 
+## Live Demo
 🔗 https://hospital-infraestructura.streamlit.app/
+
+## Code
+https://github.com/Elisa-Beltramone/hospital-analysis
 
 ---
 
