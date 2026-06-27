@@ -39,7 +39,7 @@ https://github.com/Elisa-Beltramone/Deutsch-Lernen
 Interactive data analysis project focused on healthcare datasets, featuring data cleaning, exploratory analysis, and visual insights using Python and Streamlit.  
 
 ## Live Demo
-🔗 https://hospital-infraestructura.streamlit.app/
+https://hospital-infraestructura.streamlit.app/
 
 ## Code
 https://github.com/Elisa-Beltramone/hospital-analysis
